@@ -38,7 +38,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
           <p className="text-base lg:text-lg">
-          I have experience working with JavaScript, React, Node.js, HTML, CSS, and Git. I am a fast learner and always looking to expand my knowledge and skills and am an expert in creating games using Gdevelop 5. I am a team player and I am passionate about working with others to create amazing games.
+        I have experience using JavaScript, React, Node.js, HTML, and Css. I am a fast learner and always eager to expand my knowledge and skills. I have experience in creating games using GDevelop 5 and enjoy exploring creative ideas through game development. I also have skills in designing digital products and promotional materials such as user interfaces and advertisements. I enjoy working in a team and am passionate about collaborating to create engaging and meaningful work.
           </p>
           <div className="flex flex-row justify-start mt-8">
             <TabButton
